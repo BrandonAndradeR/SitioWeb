@@ -8,6 +8,10 @@ class tienda1 extends CI_Controller {
 	{
 		$this->load->view('tienda_virtual1');
 	}
+	public function Carrito()
+	{
+		$this->load->view('view_Carrito');
+	}
 	public function tecno()
 	{
 		$this->load->view('tecnologia');
@@ -19,10 +23,6 @@ class tienda1 extends CI_Controller {
 	public function sam()
 	{
 		$this->load->view('samnsuug');
-	}
-	public function compus()
-	{
-		$this->load->view('computadores');
 	}
 	public function servicios()
 	{
@@ -75,11 +75,6 @@ class tienda1 extends CI_Controller {
 	public function productos6()
 	{
 		$this->load->view('productos6');
-	}
-	
-	public function celulares()
-	{
-		$this->load->view('celulares');
 	}
 	public function nitro_5()
 	{

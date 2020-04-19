@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>PANTALON PARA HOMBRE JOGGER FITNNES BODYBUILDING</title>
+    <title>PANTALON PARA HOMBRE</title>
     
     <link rel="icon"  href="http://localhost/SitioWeb/imagenes/tienda.jpg">
     <link href="https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap" rel="stylesheet">
@@ -78,7 +78,7 @@
         <b<a class="nav-link" href="#"></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#"><h4 style="color:aliceblue">CONTACTOS</h4></a>
+        <a class="nav-link" href="http://localhost/SitioWeb/index.php/tienda1/servicios"><h4 style="color:aliceblue">CONTACTOS</h4></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#"></a>
@@ -90,7 +90,7 @@
         <a class="nav-link" href="#"></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link " href="#"><h4 style="color:aliceblue">MI CARRITO</h4></a>
+        <a class="nav-link " href="http://localhost/SitioWeb/index.php/tienda1/Carrito"><h4 style="color:aliceblue">MI CARRITO</h4></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#"></a>
@@ -104,8 +104,6 @@
         <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><h4 style="color:aliceblue" >PRODUCTOS</h4></a>
         <div class="dropdown-menu" aria-labelledby="dropdown01">
           <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/tecno"><h3>TECNOLOGIA</h3></a>
-          <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/compus"><h3>COMPUTADORES</h3></a>
-          <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/celulares"><h3>SMARFONS</h3></a>
           <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/moda"><h3>MODA</h3></a>
           <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/productosdelhogar"><h3>PRODUCTOS DEL HOGAR</h3></a>
           <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/electrodomesticos"><h3>ELECTRODOMESTICOS</h3></a>
@@ -123,10 +121,6 @@
       </div>
     </div>
   </header>
-
-
-
-
   
   <br><div class="nav-scroller py-1 mb-2">
     <nav class="nav d-flex justify-content-between">
@@ -137,7 +131,7 @@
     <br><div class="ewk_cont_banner"></br></div>
     <center><h1 style="color:greenyellow" class="news"><small>PANTALON PARA HOMBRE JOGGER FITNNES BODYBUILDING </small></h1></center>
 <br></br>
-<center><h1 class="news"><small>DESCRICIÓN DEL PRODUCTO</small></h1></center>
+<center><h1 class="news"><small>DESCRIPCIÓN DE LA PRENDA</small></h1></center>
 <br></br>
 <center><h2>Es un sueter de algodon muy comodo y de alta costura.</h2></center>
 
@@ -149,25 +143,37 @@
       <h3 class="pb-4 mb-4 font-italic border-bottom">
       </h3>
 <center>
-      <div class="p-4">
-        <h4 class="font-italic">BUSCANOS</h4>
-        <ol class="list-unstyled">
+<div class="p-4">
+<ol class="list-unstyled">
 
-          <CEN<li><a href="https://www.facebook.com/"><H2>Facebook</H2></a></li>
-          
-        </ol>
+<table class="table">
+         <thead class="">
+             <tr>
+                 <th><img  class="img1"  src="https://png.pngtree.com/element_our/md/20180518/md_5aff6081b74c8.png" alt="" width="100" height="100"></th>
+                 <th><img  class="img2"  src="https://i.pinimg.com/originals/79/7a/fe/797afe1351677d0ad8787224e6a5be2a.png" alt="" width="100" height="100"></th>
+                 <th><img  class="img3"  src="https://img.icons8.com/cotton/2x/twitter.png" alt="" width="100" height="100"></th>
+             </tr>
+         </thead>
+         <tbody>
+            <tr>
+                <td><li><a href="https://www.facebook.com/"><H2>Facebook</H2></a></li></td>
+                <td><li><a href="https://www.instagram.com/"><H2>Instagram</H2></a></li></td>
+                <td><li><a href="https://twitter.com/explore"><H2>Twitter</H2></a></li></td>
+                </ol>
       </div>
+            </tr>
+         </tbody>
+     </table>
 </center>
-    </aside><!-- /.blog-sidebar -->
+</aside><!-- /.blog-sidebar -->
 
   </div><!-- /.row -->
 
  </main><!-- /.container -->
 
  <footer class="blog-footer">
-  <p><a href="https://getbootstrap.com/"></a>  <a href="https://twitter.com/mdo"></a>.</p>
-  <p>
-    <a href="#"></a>
+ <p>
+    <a href="#">Subir</a>
   </p>
 </footer>
 </body>

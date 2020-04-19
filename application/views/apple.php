@@ -78,7 +78,7 @@
         <b<a class="nav-link" href="#"></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#"><h4 style="color:aliceblue">CONTACTOS</h4></a>
+        <a class="nav-link" href="http://localhost/SitioWeb/index.php/tienda1/servicios"><h4 style="color:aliceblue">CONTACTOS</h4></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#"></a>
@@ -90,7 +90,7 @@
         <a class="nav-link" href="#"></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link " href="#"><h4 style="color:aliceblue">MI CARRITO</h4></a>
+        <a class="nav-link " href="http://localhost/SitioWeb/index.php/tienda1/Carrito"><h4 style="color:aliceblue">MI CARRITO</h4></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#"></a>
@@ -104,10 +104,7 @@
         <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><h4 style="color:aliceblue" >PRODUCTOS</h4></a>
         <div class="dropdown-menu" aria-labelledby="dropdown01">
           <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/tecno"><h3>TECNOLOGIA</h3></a>
-          <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/compus"><h3>COMPUTADORES</h3></a>
-          <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/celulares"><h3>SMARFONS</h3></a>
           <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/moda#"><h3>MODA</h3></a>
-  
           <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/productosdelhogar"><h3>PRODUCTOS DEL HOGAR</h3></a>
           <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/electrodomesticos"><h3>ELECTRODOMESTICOS</h3></a>
         </div>
@@ -115,12 +112,11 @@
     </ul>
   
     <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+      <input class="form-control mr-sm-2" type="text" placeholder="BUSCAR" aria-label="Search">
       <button class="btn btn-outline-success my-2 my-sm-0" type="submit">BUSCAR</button>
     </form>
   </div>
-        </nav
-        
+        </nav 
       </div>
     </div>
   </header>
@@ -135,10 +131,10 @@
       <img class="imagen1" src="https://static.bhphoto.com/images/images2500x2500/1552994671_1468045.jpg" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="imagen2" src="https://static.turbosquid.com/Preview/2019/01/08__12_03_31/1mainturbo4.jpgF7A8F00C-E934-4E7A-B6C9-5E3661517FF5Zoom.jpg" alt="Second slide">
+      <img class="imagen2" src="https://static.turbosquid.com/Preview/2019/01/08__12_03_31/1mainturbo4.jpgF7A8F00C-E934-4E7A-B6C9-5E3661517FF5Zoom.jpg" alt="Second slide" >
     </div>
     <div class="carousel-item">
-      <img class="imagen3" src="https://www.slashgear.com/wp-content/uploads/2020/03/apple-ipad-pro-129-7-1-1280x720.jpg" alt="Third slide">
+      <img class="imagen3" src="https://www.slashgear.com/wp-content/uploads/2020/03/apple-ipad-pro-129-7-1-1280x720.jpg" alt="Third slide" >
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -159,20 +155,13 @@
 
 		    <div class="col-md-6 col-xs-12">
 			<ul class="fa-ul">
-			    <li><span data-toggle="tooltip" title="Pantalla y resolución"><i class="fa-li fa fa-mobile fa-lg"></i>  <strong><h2>Marca
-Apple</h2></strong></span></li>		      <li><span data-toggle="tooltip" title="Procesador"><i class="fa-li fa fa-tachometer"></i>  <strong><h2>Sistema operativo
-iOS</h2></strong></span></li>		      <li><span data-toggle="tooltip" title="Memoria RAM"><i class="fa-li fa fa-cogs"></i>  <strong><h2>RAM: 8GB/32GB DDR4</h2></strong></span></li>
-				  <li><span data-toggle="tooltip" title="Almacenamiento"><i class="fa-li fa fa-microchip"></i>  <strong><h2>Almacenamiento: 32 gb </h2></strong></span></li>				  <li><span data-toggle="tooltip" title="Expansión de memoria"><i class="fa-li fa fa-archive"></i>  <strong><h2>Tamaño de pantalla
-10.2 pulgadas</h2></strong></span></li>			
-			</ul>
-		    </div>
-		    <div class="col-md-6 col-xs-12">
-					<ul class="fa-ul">
-					<li><span data-toggle="tooltip" title="Cámara"><i class="fa-li fa fa-camera"></i>  </h2></strong></span></li>					<li><span data-toggle="tooltip" title="Batería"><i class="fa-li fa fa-battery"></i>  <strong><h2>Duración de batería
-Duración de batería: 10 horas</h2></strong></span></li>					<li><span data-toggle="tooltip" title="Sistema operativo"><i class="fa-li fa fa-code"></i>  <strong><h2 IOS 13 ></h2></strong></span></li>				  <li><span data-toggle="tooltip" title="Perfil"><i class="fa-li fa fa-expand">			  <li><span data-toggle="tooltip" title="Peso"><i class="fa-li fa fa-balance-scale"></i>  <strong><h2>PESO: 200 gr </h2></strong></span></li>					<li><span data-toggle="tooltip" title="Precio"><i class="fa-li fa fa-usd"></i>  <strong></strong></span></li>					</ul>
+			    <li><span data-toggle="tooltip" title="Pantalla y resolución"><i class="fa-li fa fa-mobile fa-lg"></i>  <strong><h2>Marca Apple</h2></strong></span></li>		      <li><span data-toggle="tooltip" title="Procesador"><i class="fa-li fa fa-tachometer"></i>  <strong><h2>Sistema operativo iOS</h2></strong></span></li>		      
+          <li><span data-toggle="tooltip" title="Memoria RAM"><i class="fa-li fa fa-cogs"></i>  <strong><h2>RAM: 8GB/32GB DDR4</h2></strong></span></li>                  <li><span data-toggle="tooltip" title="Almacenamiento"><i class="fa-li fa fa-microchip"></i>  <strong><h2>Almacenamiento: 32 gb </h2></strong></span></li>				  
+          <li><span data-toggle="tooltip" title="Expansión de memoria"><i class="fa-li fa fa-archive"></i>  <strong><h2>Tamaño de pantalla 10.2 pulgadas</h2></strong></span></li>			<li><span data-toggle="tooltip" title="Cámara"><i class="fa-li fa fa-camera"></i>  <strong><h2>Cámara: 8 Mpx, 7 Mpx</h2></strong></span></li>					
+          <li><span data-toggle="tooltip" title="Batería"><i class="fa-li fa fa-battery"></i>  <strong><h2>Duración de batería: 10 horas</h2></strong></span></li>					<li><span data-toggle="tooltip" title="Sistema operativo"><i class="fa-li fa fa-code"></i>  <strong><h2> IOS 13</h2></strong></span></li>				  
+          <li><span data-toggle="tooltip" title="Peso"><i class="fa-li fa fa-balance-scale"></i>  <strong><h2>PESO: 200 gr </h2></strong></span></li>					</ul>
 		     <div class="clear"></div>
 		    </div>
-
         </div>
         <center><h1 class="news"><small>precio: $1.600.000</small></h1></center>
 <center><a href="#" class="btn btn-secondary btn-lg" role="button" aria-pressed="true">Lo quiero</a></center
@@ -182,17 +171,29 @@ Duración de batería: 10 horas</h2></strong></span></li>					<li><span data-tog
     <div class="row">
     <div class="col-md-8 blog-main">
       <h3 class="pb-4 mb-4 font-italic border-bottom">
-        From the Firehose
       </h3>
 <center>
-      <div class="p-4">
-        <h4 class="font-italic">Elsewhere</h4>
-        <ol class="list-unstyled">
+<div class="p-4">
+<ol class="list-unstyled">
 
-          <li><a href="https://www.facebook.com/"><H2>Facebook</H2></a></li>
-          
-        </ol>
+<table class="table">
+         <thead class="">
+             <tr>
+                 <th><img  class="img1"  src="https://png.pngtree.com/element_our/md/20180518/md_5aff6081b74c8.png" alt="" width="100" height="100"></th>
+                 <th><img  class="img2"  src="https://i.pinimg.com/originals/79/7a/fe/797afe1351677d0ad8787224e6a5be2a.png" alt="" width="100" height="100"></th>
+                 <th><img  class="img3"  src="https://img.icons8.com/cotton/2x/twitter.png" alt="" width="100" height="100"></th>
+             </tr>
+         </thead>
+         <tbody>
+            <tr>
+                <td><li><a href="https://www.facebook.com/"><H2>Facebook</H2></a></li></td>
+                <td><li><a href="https://www.instagram.com/"><H2>Instagram</H2></a></li></td>
+                <td><li><a href="https://twitter.com/explore"><H2>Twitter</H2></a></li></td>
+                </ol>
       </div>
+            </tr>
+         </tbody>
+     </table>  
 </center>
     </aside><!-- /.blog-sidebar -->
 
@@ -201,10 +202,7 @@ Duración de batería: 10 horas</h2></strong></span></li>					<li><span data-tog
  </main><!-- /.container -->
 
  <footer class="blog-footer">
-  <p>Blog template built for <a href="https://getbootstrap.com/"></a> by <a href="https://twitter.com/mdo"></a>.</p>
-  <p>
-    <a href="#">Back to top</a>
-  </p>
+    <a href="#">Subir</a>
 </footer>
 </body>
 

@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>TIENDA VIRTUAL</title>
+    <title>Contactenos</title>
     
     <link rel="icon"  href="http://localhost/SitioWeb/imagenes/tienda.jpg">
     <link href="https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap" rel="stylesheet">
@@ -49,7 +49,7 @@
     background-repeat: no-repeat;
     background-size: cover;
   
-    background-image: url("https://miro.medium.com/max/1024/1*vxjAHkrXbGG6gOiPZgjeZA.jpeg");
+    background-image: url("https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://www.wstudio.mx/wp-content/uploads/2017/01/avances-tecnologicos-1288x724.jpg");
    
  
 }
@@ -79,7 +79,7 @@
         <b<a class="nav-link" href="#"></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#"><h4 style="color:aliceblue">CONTACTOS</h4></a>
+        <a class="nav-link" href="http://localhost/SitioWeb/index.php/tienda1/servicios"><h4 style="color:aliceblue">CONTACTOS</h4></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#"></a>
@@ -91,7 +91,7 @@
         <a class="nav-link" href="#"></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link " href="#"><h4 style="color:aliceblue">MI CARRITO</h4></a>
+        <a class="nav-link " href="http://localhost/SitioWeb/index.php/tienda1/Carrito"><h4 style="color:aliceblue">MI CARRITO</h4></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#"></a>
@@ -105,8 +105,6 @@
         <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><h4 style="color:aliceblue" >PRODUCTOS</h4></a>
         <div class="dropdown-menu" aria-labelledby="dropdown01">
           <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/tecno"><h3>TECNOLOGIA</h3></a>
-          <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/compus"><h3>COMPUTADORES</h3></a>
-          <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/celulares"><h3>SMARFONS</h3></a>
           <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/moda"><h3>MODA</h3></a>
           <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/productosdelhogar"><h3>PRODUCTOS DEL HOGAR</h3></a>
           <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/electrodomesticos"><h3>ELECTRODOMESTICOS</h3></a>
@@ -115,7 +113,7 @@
     </ul>
   
     <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+      <input class="form-control mr-sm-2" type="text" placeholder="BUSCAR" aria-label="Search">
       <button class="btn btn-outline-success my-2 my-sm-0" type="submit">BUSCAR</button>
     </form>
   </div>
@@ -125,152 +123,58 @@
     </div>
   </header>
 
-  <br><div class="nav-scroller py-1 mb-2">
-    <nav class="nav d-flex justify-content-between">
-    </nav>
-    </div></br>
-   
 
-    <br><div class="ewk_cont_banner"></br>
-<br><br><br><br><br><center><h1 style="color:greenyellow">TECNOLOGIA</h1></center><br><br><br><br><br>
-<br><br><br><br><br><br><br>
-  <div class="row mb-2">
-    <div class="col-md-6">
-      <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-290 position-relative">
-        <div class="col p-4 d-flex flex-column position-static">
-          <strong class="d-inline-block mb-2 text-primary"><h2 style="color:9400D3">SAMSUNG GALAXY S20</h2></strong>
-          <h3 class="mb-0">Caracteristicas</h3>
-          <div class="mb-1 text-muted"></div>
-          <p class="card-text mb-auto"></p>
-          <a href="http://localhost/SitioWeb/index.php/tienda1/sam" class="stretched-link"></a>
-        </div>
-        <img  class="imagenes" src="https://static3.abc.es/media/tecnologia/2020/01/27/galaxy-kJ2C--620x349@abc.jpg">
+<br><div class="ewk_cont_banner"></br></div>
+  <center><h1 style="color:greenyellow" class="news"><small>¿Quienes Somos?</small></h1></center>
+<br></br>
+  <center><h2><br>Somos una empresa encargada de recibir mercancia redistribuida de</br>
+  <br>diferente naciones y las vendemos a un precio justo, tambien usamos puntos de</br> 
+  <br>cadena dentro de la ciudad para comprar mercancia a un precio justo.</br></h2></center>
+<br></br>
+  <center><h1 style="color:greenyellow" class="news"><small>¿Como contactarnos?</small></h1></center>
+<br></br>
+  <center><h2><br>sencillo puedes presionar estos botones en la parte inferior y son </br>
+  <br>nuestras redes sociales.</br></h2></center>
 
-        <div class="col-auto d-none d-lg-block">
-        </div>
-      </div>
-    </div>
-        </br></br></br></br></br></br></br></br></br></br>
-    <div class="col-md-6">
-      <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-        <div class="col p-4 d-flex flex-column position-static">
-          <strong class="d-inline-block mb-2 text-success"><h2 style="color:9400D3">IPHON 11</h2></strong>
-          <h3 class="mb-0"> </h3>
-          <div class="mb-1 text-muted"></div>
-          <p class="mb-auto"></p>
-          <a href="http://localhost/SitioWeb/index.php/tienda1/iphon" class="stretched-link"></a>
-        </div>
-        <img  class="imagenes" src="https://ep01.epimg.net/tecnologia/imagenes/2019/09/09/actualidad/1568030976_478249_1568031354_noticia_normal.jpg">
-
-        <div class="col-auto d-none d-lg-block">
-
-        </div>        
-      </div>
-    </div>
-  </div>
-</br></br></br>
-<div class="row mb-2">
-    <div class="col-md-6">
-      <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-290 position-relative">
-        <div class="col p-4 d-flex flex-column position-static">
-          <strong class="d-inline-block mb-2 text-primary"><h2 style="color:9400D3">SAMSUNG GALAXY S20</h2></strong>
-          <h3 class="mb-0">Caracteristicas</h3>
-          <div class="mb-1 text-muted"></div>
-          <p class="card-text mb-auto"></p>
-          <a href="http://localhost/SitioWeb/index.php/tienda1/sam" class="stretched-link"></a>
-        </div>
-        <img  class="imagenes" src="https://static3.abc.es/media/tecnologia/2020/01/27/galaxy-kJ2C--620x349@abc.jpg">
-
-        <div class="col-auto d-none d-lg-block">
-        </div>
-      </div>
-    </div>
-  
-    <div class="col-md-6">
-      <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-        <div class="col p-4 d-flex flex-column position-static">
-          <strong class="d-inline-block mb-2 text-success"><h2 style="color:9400D3">PORTATIL NITRO 5 ACER</h2></strong>
-          <h3 class="mb-0"> </h3>
-          <div class="mb-1 text-muted"></div>
-          <p class="mb-auto"></p>
-          <a href="#" class="stretched-link"></a>
-        </div>
-        <img  class="imagenes" src="https://i0.wp.com/ae01.alicdn.com/kf/H3e53550043d544a9b3ef8d7a84017b12t/Pantalones-para-hombre-nueva-Moda-hombre-Jogger-Pantalones-Hombre-Fitness-Bodybuilding-Gyms-pantalones-para-corredores-ropa.jpg">
-
-        <div class="col-auto d-none d-lg-block">
-
-        </div>        
-      </div>
-    </div>
-  </div>
-
- 
-<br><br><br>
-<div class="row mb-2">
-    <div class="col-md-6">
-      <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-290 position-relative">
-        <div class="col p-4 d-flex flex-column position-static">
-          <strong class="d-inline-block mb-2 text-primary"><h2 style="color:9400D3">SAMSUNG GALAXY S20</h2></strong>
-          <h3 class="mb-0">Caracteristicas</h3>
-          <div class="mb-1 text-muted"></div>
-          <p class="card-text mb-auto"></p>
-          <a href="http://localhost/SitioWeb/index.php/tienda1/sam" class="stretched-link"></a>
-        </div>
-        <img  class="imagenes" src="https://static3.abc.es/media/tecnologia/2020/01/27/galaxy-kJ2C--620x349@abc.jpg">
-
-        <div class="col-auto d-none d-lg-block">
-        </div>
-      </div>
-    </div>
-  
-    <div class="col-md-6">
-      <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-        <div class="col p-4 d-flex flex-column position-static">
-          <strong class="d-inline-block mb-2 text-success"><h2 style="color:9400D3">PORTATIL NITRO 5 ACER</h2></strong>
-          <h3 class="mb-0"> </h3>
-          <div class="mb-1 text-muted"></div>
-          <p class="mb-auto"></p>
-          <a href="#" class="stretched-link"></a>
-        </div>
-        <img  class="imagenes" src="https://i0.wp.com/ae01.alicdn.com/kf/H3e53550043d544a9b3ef8d7a84017b12t/Pantalones-para-hombre-nueva-Moda-hombre-Jogger-Pantalones-Hombre-Fitness-Bodybuilding-Gyms-pantalones-para-corredores-ropa.jpg">
-
-        <div class="col-auto d-none d-lg-block">
-
-        </div>        
-      </div>
-    </div>
-  </div>
-</br></br></br>
-
- 
-
+      
   <div class="row">
     <div class="col-md-8 blog-main">
       <h3 class="pb-4 mb-4 font-italic border-bottom">
-        From the Firehose
+        
       </h3>
-<center>
-      <div class="p-4">
-        <h4 class="font-italic">Elsewhere</h4>
-        <ol class="list-unstyled">
 
-          <li><a href="https://www.facebook.com/"><H2>Facebook</H2></a></li>
-          
-        </ol>
+<center>
+<div class="p-4">
+<ol class="list-unstyled">
+
+<table class="table">
+         <thead class="">
+             <tr>
+                 <th><img  class="img1"  src="https://png.pngtree.com/element_our/md/20180518/md_5aff6081b74c8.png" alt="" width="100" height="100"></th>
+                 <th><img  class="img2"  src="https://i.pinimg.com/originals/79/7a/fe/797afe1351677d0ad8787224e6a5be2a.png" alt="" width="100" height="100"></th>
+                 <th><img  class="img3"  src="https://img.icons8.com/cotton/2x/twitter.png" alt="" width="100" height="100"></th>
+             </tr>
+         </thead>
+         <tbody>
+            <tr>
+                <td><li><a href="https://www.facebook.com/"><H2>Facebook</H2></a></li></td>
+                <td><li><a href="https://www.instagram.com/"><H2>Instagram</H2></a></li></td>
+                <td><li><a href="https://twitter.com/explore"><H2>Twitter</H2></a></li></td>
+                </ol>
       </div>
+            </tr>
+         </tbody>
+     </table>
 </center>
     </aside><!-- /.blog-sidebar -->
 
+    <footer class="blog-footer">
+    <a href="#">Subir</a>
+</footer>
   </div><!-- /.row -->
 
  </main><!-- /.container -->
 
- <footer class="blog-footer">
-  <p>Blog template built for <a href="https://getbootstrap.com/"></a> by <a href="https://twitter.com/mdo"></a>.</p>
-  <p>
-    <a href="#">Back to top</a>
-  </p>
-</footer>
 </body>
 
 </html>

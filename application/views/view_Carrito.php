@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>COMPUTADORES</title>
+    <title>Mi Carrito</title>
     
     <link rel="icon"  href="http://localhost/SitioWeb/imagenes/tienda.jpg">
     <link href="https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap" rel="stylesheet">
@@ -41,7 +41,7 @@
      color:  black; }
  
  .ewk_cont_banner{
-    height: 80vh;
+    height: 90vh;
     
   
     background-attachment: fixed;
@@ -49,7 +49,7 @@
     background-repeat: no-repeat;
     background-size: cover;
   
-    background-image: url("https://dicomania.com/wp-content/uploads/2019/10/computadora.jpg");
+    background-image: url("https://www.pngitem.com/pimgs/m/424-4245936_carrito-de-compras-smbolo-de-un-supermercado-hd.png");
    
  
 }
@@ -105,10 +105,7 @@
         <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><h4 style="color:aliceblue" >PRODUCTOS</h4></a>
         <div class="dropdown-menu" aria-labelledby="dropdown01">
           <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/tecno"><h3>TECNOLOGIA</h3></a>
-          <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/compus"><h3>COMPUTADORES</h3></a>
-          <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/celulares"><h3>SMARFONS</h3></a>
           <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/moda"><h3>MODA</h3></a>
-         
           <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/productosdelhogar"><h3>PRODUCTOS DEL HOGAR</h3></a>
           <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/electrodomesticos"><h3>ELECTRODOMESTICOS</h3></a>
         </div>
@@ -116,7 +113,7 @@
     </ul>
   
     <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+      <input class="form-control mr-sm-2" type="text" placeholder="BUSCAR" aria-label="Search">
       <button class="btn btn-outline-success my-2 my-sm-0" type="submit">BUSCAR</button>
     </form>
   </div>
@@ -126,97 +123,58 @@
     </div>
   </header>
 
-  <br><div class="nav-scroller py-1 mb-2">
-    <nav class="nav d-flex justify-content-between">
-    </nav>
-    </div></br>
-   
 
-    <br><div class="ewk_cont_banner"></br>
-    <br><br><br><br><br> <center><h1 style="color:greenyellow" class="news"><small>COMPUTADORES</small></h1></center>
-<br><br><br><br><br><br><br>
-  <div class="row mb-2">
-    <div class="col-md-6">
-      <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-        <div class="col p-4 d-flex flex-column position-static">
-          <strong class="d-inline-block mb-2 text-success"><h2 style="color:black">PORTATIL NITRO 5 ACER</h2></strong>
-          <h3 class="mb-0"> </h3>
-          <div class="mb-1 text-muted">        <center><h1 class="news"><small>precio: $2.600.000</small></h1></center>
-<center><a href="#" class="btn btn-secondary btn-lg" role="button" aria-pressed="true">Lo quiero</a></center>
-</div>
-          <p class="mb-auto"></p>
-          <a href="http://localhost/SitioWeb/index.php/tienda1/nitro_5" class="stretched-link"></a>
-        </div>
-        <img  class="imagenes" src="https://laptopmedia.com/wp-content/uploads/2019/12/acernitro5an517-51featured.jpg">
+<br><div class="ewk_cont_banner"></br></div>
+  <center><h1 style="color:greenyellow" class="news"><small>¿Quienes Somos?</small></h1></center>
+<br></br>
+  <center><h2><br>Somos una empresa encargada de recibir mercancia redistribuida de</br>
+  <br>diferente naciones y las vendemos a un precio justo, tambien usamos puntos de</br> 
+  <br>cadena dentro de la ciudad para comprar mercancia a un precio justo.</br></h2></center>
+<br></br>
+  <center><h1 style="color:greenyellow" class="news"><small>¿Como contactarnos?</small></h1></center>
+<br></br>
+  <center><h2><br>sencillo puedes presionar estos botones en la parte inferior y son </br>
+  <br>nuestras redes sociales.</br></h2></center>
 
-        <div class="col-auto d-none d-lg-block">
-
-        </div>        
-      </div>
-    </div>
-  
-        </br></br></br></br></br></br></br></br></br></br>
-    <div class="col-md-6">
-      <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-290 position-relative">
-        <div class="col p-4 d-flex flex-column position-static">
-          <strong class="d-inline-block mb-2 text-primary"><h2 style="color:black">COMPUTADOR DE ESCRITTORIO HP 690-002bla AMD Ryzen 5 24"</h2></strong>
-          <h3 class="mb-0">        <center><h1 class="news"><small>precio: $2.600.000</small></h1></center>
-<center><a href="#" class="btn btn-secondary btn-lg" role="button" aria-pressed="true">Lo quiero</a></center</h3>
-          <div class="mb-1 text-muted"></div>
-          <p class="card-text mb-auto"></p>
-          <a href="http://localhost/SitioWeb/index.php/tienda1/compu2" class="stretched-link"></a>
-        </div>
-        <img  class="imagenes" src="https://media.aws.alkosto.com/media/catalog/product/cache/6/image/69ace863370f34bdf190e4e164b6e123/1/9/192545587631_3.png">
-
-        <div class="col-auto d-none d-lg-block">
-        </div>
-      </div>
-    </div>
-  </div>
-</br></br></br>
-
-</br></br></br>
-
- 
-
-
-<div class="row">
+      
+  <div class="row">
     <div class="col-md-8 blog-main">
       <h3 class="pb-4 mb-4 font-italic border-bottom">
-       
+        
       </h3>
-<center>
-      <div class="p-4">
-        <h4 class="font-italic">BUSCANOS</h4>
-        <ol class="list-unstyled">
 
-          <li><a href="https://www.facebook.com/"><H2>Facebook</H2></a></li>
-          
-        </ol>
-      </div>
-</center>
 <center>
-      <div class="p-4">
-        <h4 class="font-italic"></h4>
-        <ol class="list-unstyled">
+<div class="p-4">
+<ol class="list-unstyled">
 
-          <li><a href="https://www.facebook.com/"><H2>instagram</H2></a></li>
-          
-        </ol>
+<table class="table">
+         <thead class="">
+             <tr>
+                 <th><img  class="img1"  src="https://png.pngtree.com/element_our/md/20180518/md_5aff6081b74c8.png" alt="" width="100" height="100"></th>
+                 <th><img  class="img2"  src="https://i.pinimg.com/originals/79/7a/fe/797afe1351677d0ad8787224e6a5be2a.png" alt="" width="100" height="100"></th>
+                 <th><img  class="img3"  src="https://img.icons8.com/cotton/2x/twitter.png" alt="" width="100" height="100"></th>
+             </tr>
+         </thead>
+         <tbody>
+            <tr>
+                <td><li><a href="https://www.facebook.com/"><H2>Facebook</H2></a></li></td>
+                <td><li><a href="https://www.instagram.com/"><H2>Instagram</H2></a></li></td>
+                <td><li><a href="https://twitter.com/explore"><H2>Twitter</H2></a></li></td>
+                </ol>
       </div>
+            </tr>
+         </tbody>
+     </table>
 </center>
     </aside><!-- /.blog-sidebar -->
 
+    <footer class="blog-footer">
+    <a href="#">Subir</a>
+</footer>
   </div><!-- /.row -->
 
  </main><!-- /.container -->
 
- <footer class="blog-footer">
-  <p> <a href="https://getbootstrap.com/"></a> by <a href="https://twitter.com/mdo"></a>.</p>
-  <p>
-    <a href="#"></a>
-  </p>
-</footer>
 </body>
 
 </html>

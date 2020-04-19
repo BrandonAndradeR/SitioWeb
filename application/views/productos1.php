@@ -79,7 +79,7 @@
         <b<a class="nav-link" href="#"></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#"><h4 style="color:aliceblue">CONTACTOS</h4></a>
+        <a class="nav-link" href="http://localhost/SitioWeb/index.php/tienda1/servicios"><h4 style="color:aliceblue">CONTACTOS</h4></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#"></a>
@@ -91,7 +91,7 @@
         <a class="nav-link" href="#"></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link " href="#"><h4 style="color:aliceblue">MI CARRITO</h4></a>
+        <a class="nav-link " href="http://localhost/SitioWeb/index.php/tienda1/Carrito"><h4 style="color:aliceblue">MI CARRITO</h4></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#"></a>
@@ -105,8 +105,6 @@
         <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><h4 style="color:aliceblue" >PRODUCTOS</h4></a>
         <div class="dropdown-menu" aria-labelledby="dropdown01">
           <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/tecno"><h3>TECNOLOGIA</h3></a>
-          <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/compus"><h3>COMPUTADORES</h3></a>
-          <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/celulares"><h3>SMARFONS</h3></a>
           <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/moda"><h3>MODA</h3></a>
           <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/productosdelhogar"><h3>PRODUCTOS DEL HOGAR</h3></a>
           <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/electrodomesticos"><h3>ELECTRODOMESTICOS</h3></a>
@@ -115,7 +113,7 @@
     </ul>
   
     <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+      <input class="form-control mr-sm-2" type="text" placeholder="BUSCAR" aria-label="Search">
       <button class="btn btn-outline-success my-2 my-sm-0" type="submit">BUSCAR</button>
     </form>
   </div>
@@ -148,14 +146,27 @@
       <h3 class="pb-4 mb-4 font-italic border-bottom">
       </h3>
 <center>
-      <div class="p-4">
-        <h4 class="font-italic">BUSCANOS</h4>
-        <ol class="list-unstyled">
+<div class="p-4">
+<ol class="list-unstyled">
 
-          <CEN<li><a href="https://www.facebook.com/"><H2>Facebook</H2></a></li>
-          
-        </ol>
+<table class="table">
+         <thead class="">
+             <tr>
+                 <th><img  class="img1"  src="https://png.pngtree.com/element_our/md/20180518/md_5aff6081b74c8.png" alt="" width="100" height="100"></th>
+                 <th><img  class="img2"  src="https://i.pinimg.com/originals/79/7a/fe/797afe1351677d0ad8787224e6a5be2a.png" alt="" width="100" height="100"></th>
+                 <th><img  class="img3"  src="https://img.icons8.com/cotton/2x/twitter.png" alt="" width="100" height="100"></th>
+             </tr>
+         </thead>
+         <tbody>
+            <tr>
+                <td><li><a href="https://www.facebook.com/"><H2>Facebook</H2></a></li></td>
+                <td><li><a href="https://www.instagram.com/"><H2>Instagram</H2></a></li></td>
+                <td><li><a href="https://twitter.com/explore"><H2>Twitter</H2></a></li></td>
+                </ol>
       </div>
+            </tr>
+         </tbody>
+     </table> 
 </center>
     </aside><!-- /.blog-sidebar -->
 
@@ -164,10 +175,7 @@
  </main><!-- /.container -->
 
  <footer class="blog-footer">
-  <p><a href="https://getbootstrap.com/"></a>  <a href="https://twitter.com/mdo"></a>.</p>
-  <p>
-    <a href="#"></a>
-  </p>
+    <a href="#">Subir</a>
 </footer>
 </body>
 

@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>COMPUTADOR DE ESCRITTORIO HP 690-002bla AMD Ryzen 5 24"</title>
+    <title>COMPUTADOR DE ESCRITTORIO HP </title>
     
     <link rel="icon"  href="http://localhost/SitioWeb/imagenes/tienda.jpg">
     <link href="https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap" rel="stylesheet">
@@ -78,7 +78,7 @@
         <b<a class="nav-link" href="#"></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#"><h4 style="color:aliceblue">CONTACTOS</h4></a>
+        <a class="nav-link" href="http://localhost/SitioWeb/index.php/tienda1/servicios"><h4 style="color:aliceblue">CONTACTOS</h4></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#"></a>
@@ -90,7 +90,7 @@
         <a class="nav-link" href="#"></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link " href="#"><h4 style="color:aliceblue">MI CARRITO</h4></a>
+        <a class="nav-link " href="http://localhost/SitioWeb/index.php/tienda1/Carrito"><h4 style="color:aliceblue">MI CARRITO</h4></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#"></a>
@@ -104,10 +104,7 @@
         <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><h4 style="color:aliceblue" >PRODUCTOS</h4></a>
         <div class="dropdown-menu" aria-labelledby="dropdown01">
           <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/tecno"><h3>TECNOLOGIA</h3></a>
-          <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/compus"><h3>COMPUTADORES</h3></a>
-          <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/celulares"><h3>SMARFONS</h3></a>
           <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/moda"><h3>MODA</h3></a>
-        
           <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/productosdelhogar"><h3>PRODUCTOS DEL HOGAR</h3></a>
           <a class="dropdown-item" href="http://localhost/SitioWeb/index.php/tienda1/electrodomesticos"><h3>ELECTRODOMESTICOS</h3></a>
         </div>
@@ -115,7 +112,7 @@
     </ul>
   
     <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+      <input class="form-control mr-sm-2" type="text" placeholder="BUSCAR" aria-label="Search">
       <button class="btn btn-outline-success my-2 my-sm-0" type="submit">BUSCAR</button>
     </form>
   </div>
@@ -164,7 +161,7 @@
 		    </div>
 		    <div class="col-md-6 col-xs-12">
 					<ul class="fa-ul">
-					<li><span data-toggle="tooltip" title="Cámara"><i class="fa-li fa fa-camera"></i>  <strong><h2>Tarjeta de video: NVIDIA GeForce GTX 1050 (4GB)</h2></strong></span></li>					<li><span data-toggle="tooltip" title="Batería">				<li><span data-toggle="tooltip" title="Sistema operativo"><i class="fa-li fa fa-code"></i>  <strong><h2 IOS 13 ></h2></strong></span></li>				  <li><span data-toggle="tooltip" title="Perfil"><i class="fa-li fa fa-expand">			  <li><span data-toggle="tooltip" title="Peso"><i class="fa-li fa fa-balance-scale"></i>  <strong><h2>SISTEMA OPERATIVO:WIMNDOWS </h2></strong></span></li>					<li><span data-toggle="tooltip" title="Precio"><i class="fa-li fa fa-usd"></i>  <strong></strong></span></li>					</ul>
+					<li><span data-toggle="tooltip" title="tarjeta"><i class="fa-li fa fa-camera"></i>  <strong><h2>Tarjeta de video: NVIDIA GeForce GTX 1050 (4GB)</h2></strong></span></li>				<li><span data-toggle="tooltip" title="Sistema operativo"><i class="fa-li fa fa-code"></i>  <strong><h2>S.O: Windows 10 Pro</h2></strong></span></li>									</ul>
 		     <div class="clear"></div>
 		    </div>
 
@@ -178,30 +175,39 @@
     <div class="row">
     <div class="col-md-8 blog-main">
       <h3 class="pb-4 mb-4 font-italic border-bottom">
-        From the Firehose
       </h3>
 <center>
-      <div class="p-4">
-        <h4 class="font-italic">Elsewhere</h4>
-        <ol class="list-unstyled">
+<div class="p-4">
+<ol class="list-unstyled">
 
-          <li><a href="https://www.facebook.com/"><H2>Facebook</H2></a></li>
-          
-        </ol>
+<table class="table">
+         <thead class="">
+             <tr>
+                 <th><img  class="img1"  src="https://png.pngtree.com/element_our/md/20180518/md_5aff6081b74c8.png" alt="" width="100" height="100"></th>
+                 <th><img  class="img2"  src="https://i.pinimg.com/originals/79/7a/fe/797afe1351677d0ad8787224e6a5be2a.png" alt="" width="100" height="100"></th>
+                 <th><img  class="img3"  src="https://img.icons8.com/cotton/2x/twitter.png" alt="" width="100" height="100"></th>
+             </tr>
+         </thead>
+         <tbody>
+            <tr>
+                <td><li><a href="https://www.facebook.com/"><H2>Facebook</H2></a></li></td>
+                <td><li><a href="https://www.instagram.com/"><H2>Instagram</H2></a></li></td>
+                <td><li><a href="https://twitter.com/explore"><H2>Twitter</H2></a></li></td>
+                </ol>
       </div>
+            </tr>
+         </tbody>
+     </table> 
 </center>
     </aside><!-- /.blog-sidebar -->
 
+    <footer class="blog-footer">
+    <a href="#">Subir</a>
+</footer>
   </div><!-- /.row -->
 
  </main><!-- /.container -->
 
- <footer class="blog-footer">
-  <p>Blog template built for <a href="https://getbootstrap.com/"></a> by <a href="https://twitter.com/mdo"></a>.</p>
-  <p>
-    <a href="#">Back to top</a>
-  </p>
-</footer>
 </body>
 
 </html>
